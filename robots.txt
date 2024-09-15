@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://suazw.github.io/rjp/sitemap.rjp.gz
